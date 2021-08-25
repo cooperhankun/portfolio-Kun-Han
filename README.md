@@ -1,7 +1,7 @@
 # Kun Han
 
-Jag heter Kun Han. Min kandidat studie i Kina är apotek. Jag har också masterstudier (statistik) i Belgien (Hasselt universitet) och Sverige (universitetet Dalarna). Jag har engagerat mig i import och export arbete i Sverige, och jag har även varit lärare i MA/NO på grundskolor I Borås.
+My name is Kun Han. My bachelor in China was pharmacy and studied a master degree in statistics at Dalarna University. 
 
-Jag valde programmen i AI och Maskininlärning på grund av min utbildningsbakgrund. 
-Matematik och statistik är grunden för AI och maskininlärning, data scientist.
-När jag öppnade hemsidan från IT -skolan såg jag många aktivitet mellan företag och elever. Detta är en annan viktig anledning till att jag valde IT-högskolan. Lärande är bara en process, och att hitta en rätt jobb är målet. 
+I have experience in accounting, import and export works, and also been a teacher of MA/NO at school for couple of years.
+
+I am interested in data science and statistical modeling. I believe the artificial intelligence and machine learning will lead me into a new world of the future.
